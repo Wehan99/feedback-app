@@ -12,7 +12,7 @@ Welcome to the Feedback App! This application allows users to submit feedback an
 
 - **Frontend**: HTML, CSS, JavaScript, React
 - **Backend**: Node.js, Express.js, MongoDB
-- **Additional Libraries**: Redux, Axios, Mongoose
+
 
 ## Getting Started
 
