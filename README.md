@@ -19,4 +19,4 @@ Welcome to the Feedback App! This application allows users to submit feedback an
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/your-username/feedback-app.git
+   git clone [https://github.com/Wehan@99/feedback-app.git
