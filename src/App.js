@@ -1,17 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
-import testJs from './components/testJs';
+import Header from "./components/Header";
+import Feedbackitem from "./components/Feedbackitem";
 
 
 function App() {
-      return (
-        <div className="App">
-        testJs 
-     
-        </div>
-      );
-  } 
+return(
+    <>
+    <Header />
+    <div className="container">
+        <Feedbackitem />
+    </div>
+    </>
+   
+)
 
-  console.log("test results")
+
+}
 
 export default App;
